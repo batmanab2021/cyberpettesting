@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    color: #f8b500;
+    background: #f7f7f7;
+  }
+  
+  .center {
+    margin: 0 auto;
+  }
+  
+  .bg-bar {
+    height: 20px;
+    width: 500px;
+    background-color: lightgrey;
+    
+  }
+  
+  .progress-bar {
+    height: 20px;
+    width: 300px;
+    background-color: #f8b500;
+    
+  }
